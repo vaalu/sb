@@ -12,6 +12,7 @@
 	<modules>
 		<module>sb-01-plain-vanilla</module>
 		<module>sb-02-jstreams</module>
+		<module>sb-03-in-memory-security</module>
 	</modules>
 
 </project>
